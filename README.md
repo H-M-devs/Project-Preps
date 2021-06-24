@@ -2,12 +2,12 @@
 
 ## team members:
 
-humam mkhzoumi
-shatha alsmadi
-khaled alshishani
-maram ankir
-laith fayiz
-osama alshararbeh
++ ## humam mkhzoumi
++ ## shatha alsmadi
++ ## khaled alshishani
++ ## maram ankir
++ ## laith fayiz
++ ## osama alshararbeh
 
 ## prep1:
 
